@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\alpha\OneDrive\Рабочий стол\game\Game.cpp(61,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\alpha\OneDrive\Рабочий стол\game\Game.cpp(62,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  GameTemplate.vcxproj -> C:\Users\alpha\OneDrive\Рабочий стол\game\x64\Debug\GameTemplate.exe
